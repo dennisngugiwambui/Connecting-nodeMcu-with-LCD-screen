@@ -51,4 +51,10 @@ void loop()
 ```
 
 
+![WhatsApp Image 2024-03-14 at 2 47 51 PM (1)](https://github.com/dennisngugiwambui/Connecting-nodeMcu-with-LCD-screen/assets/112067611/393891d2-fe05-41ca-9c5b-3f0bc23d6958)
+
+
+![Uploading WhatsApp Image 2024-03-14 at 2.47.51 PM.jpeg…]()
+
+
 
